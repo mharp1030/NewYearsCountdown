@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Countdown</string>
+    <string name="lblCountdown">Time to Count Down:</string>
+    <string name="btnSetCount">Set Countdown</string>
+    <string name="lblHighestNot">Highest Notification:</string>
+    <string name="lblMsg">Message:</string>
+    <string name="btnStart">Start Countdown</string>
+</resources>
